@@ -1,0 +1,15 @@
+F:\Project C#\Exam02 Solution\Exam02\bin\Debug\net6.0\Exam02.exe
+F:\Project C#\Exam02 Solution\Exam02\bin\Debug\net6.0\Exam02.deps.json
+F:\Project C#\Exam02 Solution\Exam02\bin\Debug\net6.0\Exam02.runtimeconfig.json
+F:\Project C#\Exam02 Solution\Exam02\bin\Debug\net6.0\Exam02.dll
+F:\Project C#\Exam02 Solution\Exam02\bin\Debug\net6.0\Exam02.pdb
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.csproj.AssemblyReference.cache
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.AssemblyInfoInputs.cache
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.AssemblyInfo.cs
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.csproj.CoreCompileInputs.cache
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.dll
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\refint\Exam02.dll
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.pdb
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\Exam02.genruntimeconfig.cache
+F:\Project C#\Exam02 Solution\Exam02\obj\Debug\net6.0\ref\Exam02.dll
